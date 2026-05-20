@@ -50,7 +50,7 @@ public:
     }
 
     double getSombra() const override {
-        return sombraMaxima_;
+        return sombra_;
     }
 };
 
